@@ -21,9 +21,11 @@ Provide insights to help consumers choose safer cosmetic products
 
 🗂 Project Structure
 
-├── Analysis_Of_Chemical_Components.ipynb   # Main analysis notebook
+├── Analysis_Of_Chemical_Components.ipynb    # Main analysis notebook
+
 ├── README.md                               # Project documentation
-└── data/                                  # (Optional) Dataset folder if separated
+
+└── data/                                   # (Optional) Dataset folder if separated
 
 🛠 Technologies Used
 
