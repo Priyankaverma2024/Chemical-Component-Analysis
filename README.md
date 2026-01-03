@@ -1,4 +1,5 @@
 🧪 Analysis of Chemical Components in Cosmetics
+
 📌 Project Overview
 
 This project analyzes the chemical composition of cosmetic products to understand ingredient patterns across different product categories and skin types. The objective is to help users make informed decisions by identifying potentially harmful or beneficial ingredients and visualizing their distribution using data analysis and interactive visualization techniques.
